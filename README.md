@@ -23,7 +23,6 @@ Once the build process is complete, your generated executable will be available 
 
 - Windows
 - A valid Discord Bot Token
-- Internet connection (if required by the builder)
 
 ## Disclaimer
 
